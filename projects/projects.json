@@ -1,0 +1,57 @@
+[
+  {
+    "name": "ChatApp",
+    "desc": "Full-Stack chat app built using MERN stack and realtime chat with the help of socket.iO",
+    "image": "chat",
+    "category": "mern",
+    "links": {
+      "view": "https://chatup-v8fv.onrender.com/",
+      "code": "https://github.com/Suman599/ChatUp"
+    }
+  },
+  {
+    "name": "Healthifyy",
+    "desc": "Frontend only website for providing proper diet plans according to your weight goals",
+    "image": "healthify",
+    "links": {
+      "view": "https://suman599.github.io/Healthifyy/",
+      "code": "https://github.com/Suman599/Healthifyy"
+    }
+  },
+  {
+    "name": "passgen",
+    "desc": "ReactJS Basic password Generator which will generate passwords for u based on length of string or according to combinations specified by the user",
+    "image": "passgen",
+    "links": {
+      "view": "https://github.com/Suman599/passgen",
+      "code": "https://github.com/Suman599/passgen"
+    }
+  },
+  {
+    "name": "College Website",
+    "desc": "A small website of our college made using HTML,CSS,Javascript.",
+    "image": "collegewebsite",
+    "links": {
+      "view": "https://suman599.github.io/College-Website/",
+      "code": "https://github.com/Suman599/College-Website"
+    }
+  },
+  {
+    "name": "Coming soon",
+    "desc": "Stay tuned",
+    "image": "staytuned",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Coming soon",
+    "desc": "Stay tuned",
+    "image": "staytuned",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  }
+]
